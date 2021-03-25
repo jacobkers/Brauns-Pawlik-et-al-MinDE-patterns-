@@ -1,12 +1,16 @@
+
+
 Code associated with the paper:
 
-Bulk-surface coupling reconciles Min-protein pattern formation in vitro and in vivo 
+Code associated with the paper: "Bulk-surface coupling reconciles Min-protein pattern formation in vitro and in vivo"
 
-Authors: Fridtjof Brauns1,*, Grzegorz Pawlik2,*, Jacob Halatek3,*, Jacob Kerssemakers2, Erwin Frey1,†, Cees Dekker2,† 
+Fridtjof Brauns1,, Grzegorz Pawlik2,, Jacob Halatek3,, Jacob Kerssemakers2, Erwin Frey1,†, Cees Dekker2,† 1Arnold Sommerfeld Center for Theoretical Physics and Center for NanoScience, Department of Physics, Ludwig-Maximilians-Universität München, Theresienstraße 37, D-80333 München, Germany 2Department of Bionanoscience, Kavli Institute of Nanoscience Delft, Delft University of Technology, Van der Maasweg 9, 2629 HZ Delft, the Netherlands 3Biological Computation Group, Microsoft Research, Cambridge CB1 2FB, UKF.B., G.P., and J.H. contributed equally to this work. †Corresponding authors. Email: frey@lmu.de, c.dekker@tudelft.nl
 
 Code was developed in the Cees Dekker lab by Jacob Kerssemakers
 
 Version : November_11_2020_17_58
+
+https://zenodo.org/badge/latestdoi/312041417
 __________________________________________________________
 Order of listing:
 main programs: project-specific shell programs
