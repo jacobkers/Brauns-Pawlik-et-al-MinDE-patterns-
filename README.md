@@ -1,6 +1,6 @@
 NOTE 02/06/2024
 contents of this repository were transferred to: 
-https://github.com/jacobkers/Cees_Dekker_Lab_Kerssemakers_Public_Code/2021_Brauns_Pawlik_NatCom/
+https://github.com/jacobkers/Cees_Dekker_Lab_Kerssemakers_Public_Code
 
 
 
